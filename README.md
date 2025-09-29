@@ -1,6 +1,4 @@
-# MyApp
-
-A full-stack application built with Node.js (Express), React, and MySQL.
+# inside myapp folder
 
 ## Features
 
@@ -42,7 +40,6 @@ A full-stack application built with Node.js (Express), React, and MySQL.
     ```bash
     cd client
     npm install
-    cd ..
     ```
 
 ## Running the Project
